@@ -6,4 +6,7 @@
     <item name="progressBar" type="id" />
     <item name="loginBtn" type="id" />
     <item name="forgotPassword" type="id" />
+    <item name="resetPasswordLocal" type="id" />
+    <item name="profileImage" type="id" />
+    <item name="profileName" type="id" />
 </resources>
